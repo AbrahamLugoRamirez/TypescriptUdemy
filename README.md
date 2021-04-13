@@ -1,6 +1,6 @@
-# TypescriptUdemy
-
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)](https://nodesource.com/products/nsolid)
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
