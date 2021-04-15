@@ -27,3 +27,4 @@ node number.js
 - modosfunciones.ts & modosfunciones.js
 - opcionales.ts & opcionales.js
 - defecto.ts & defecto.js
+- paramREST.ts $ paramREST.js
