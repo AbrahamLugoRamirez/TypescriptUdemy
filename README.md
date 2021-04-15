@@ -26,3 +26,4 @@ node number.js
 - function.ts & function.js
 - modosfunciones.ts & modosfunciones.js
 - opcionales.ts & opcionales.js
+- defecto.ts & defecto.js
