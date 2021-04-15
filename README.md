@@ -21,3 +21,7 @@ node number.js
 - string.ts
 - array.ts
 - tupla.ts
+
+## Seccion 3
+- function.ts & function.js
+- modosfunciones.ts & modosfunciones.js
