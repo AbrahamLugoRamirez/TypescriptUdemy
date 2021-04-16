@@ -1,0 +1,16 @@
+Clases es una plantilla de un objeto.
+Metodos, atributos de dicho objeto.
+
+
+TypeScript POO
+Objeto coche.
+propiedades
+    Color
+    Marca
+    Numero de ruedas
+    Numero de puertas
+
+Metodos
+    Arrancar
+    Acelerar
+    Frenar

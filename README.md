@@ -28,3 +28,7 @@ node number.js
 - opcionales.ts & opcionales.js
 - defecto.ts & defecto.js
 - paramREST.ts $ paramREST.js
+
+## Seccion 4
+- introduccion.txt
+- primeraclase.ts & primeraclase.js
