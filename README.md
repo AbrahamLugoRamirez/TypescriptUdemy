@@ -33,3 +33,5 @@ node number.js
 - introduccion.txt
 - primeraclase.ts
 - herencia.ts
+- modificadorespublicos.ts
+- modificadorprivado.ts
