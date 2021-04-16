@@ -23,13 +23,13 @@ node number.js
 - tupla.ts
 
 ## Seccion 3
-- function.ts & function.js
-- modosfunciones.ts & modosfunciones.js
-- opcionales.ts & opcionales.js
-- defecto.ts & defecto.js
-- paramREST.ts $ paramREST.js
+- function.ts
+- modosfunciones.ts
+- opcionales.ts
+- defecto.ts
+- paramREST.ts
 
 ## Seccion 4
 - introduccion.txt
-- primeraclase.ts & primeraclase.js
-- herencia.ts & herencia.js
+- primeraclase.ts
+- herencia.ts
