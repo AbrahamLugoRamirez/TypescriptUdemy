@@ -5,7 +5,7 @@ class Animal{
         this.nombre = _nombre
         this.tamano = _tamano
     }
-    publico moverse():void{
+    public moverse():void{
         console.log('Me estoy moviendo')
     }
 }
