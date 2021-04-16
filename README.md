@@ -32,3 +32,4 @@ node number.js
 ## Seccion 4
 - introduccion.txt
 - primeraclase.ts & primeraclase.js
+- herencia.ts & herencia.js
