@@ -35,3 +35,4 @@ node number.js
 - herencia.ts
 - modificadorespublicos.ts
 - modificadorprivado.ts
+- modificadoresprotegidos.ts
