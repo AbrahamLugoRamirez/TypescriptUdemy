@@ -36,3 +36,4 @@ node number.js
 - modificadorespublicos.ts
 - modificadorprivado.ts
 - modificadoresprotegidos.ts
+- getyset.ts
